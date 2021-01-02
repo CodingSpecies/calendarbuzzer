@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/calendarbuzzer/static/css/main.5043496d.chunk.css",
+    "main.js": "/calendarbuzzer/static/js/main.20c86aeb.chunk.js",
+    "main.js.map": "/calendarbuzzer/static/js/main.20c86aeb.chunk.js.map",
+    "runtime-main.js": "/calendarbuzzer/static/js/runtime-main.72933222.js",
+    "runtime-main.js.map": "/calendarbuzzer/static/js/runtime-main.72933222.js.map",
+    "static/css/2.2a86faee.chunk.css": "/calendarbuzzer/static/css/2.2a86faee.chunk.css",
+    "static/js/2.cb04f4f0.chunk.js": "/calendarbuzzer/static/js/2.cb04f4f0.chunk.js",
+    "static/js/2.cb04f4f0.chunk.js.map": "/calendarbuzzer/static/js/2.cb04f4f0.chunk.js.map",
+    "index.html": "/calendarbuzzer/index.html",
+    "precache-manifest.71d19220e615db965d97bb827c6dfda1.js": "/calendarbuzzer/precache-manifest.71d19220e615db965d97bb827c6dfda1.js",
+    "service-worker.js": "/calendarbuzzer/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/calendarbuzzer/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.5043496d.chunk.css.map": "/calendarbuzzer/static/css/main.5043496d.chunk.css.map",
+    "static/js/2.cb04f4f0.chunk.js.LICENSE.txt": "/calendarbuzzer/static/js/2.cb04f4f0.chunk.js.LICENSE.txt",
+    "static/media/logo1.png": "/calendarbuzzer/static/media/logo1.edd20e44.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72933222.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.cb04f4f0.chunk.js",
+    "static/css/main.5043496d.chunk.css",
+    "static/js/main.20c86aeb.chunk.js"
+  ]
+}
