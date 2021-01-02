@@ -3,5 +3,5 @@ This project is our Final Term project at TechKaro, called "Calendar Buzzer". A 
 Technologies used:
 HTML5, CSS, Material UI Framework, React.js.
 
-##You can check it out here:
+## You can check it out here:
 http://FatimaYousif.github.io/calendarbuzzer
